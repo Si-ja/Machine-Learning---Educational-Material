@@ -10,6 +10,7 @@ Structure of the repository:
 > Execute_BitCoin.bat - a .bat file that automatically starts the BitCoin.py file without the need to open the program through any text editor files.
 
 > Bitcoin_log.txt - log of all values that bitcoin takes when tracked with our program.
+
 > Log.png - Visual representation of the Bitcoin_log.txt data.
 
 > SUFFER.wav - the audio file that plays as an allert.
