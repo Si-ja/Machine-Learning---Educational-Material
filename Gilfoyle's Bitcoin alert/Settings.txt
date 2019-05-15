@@ -1,0 +1,3 @@
+currency = USD
+treshold = 7050
+track = 60
