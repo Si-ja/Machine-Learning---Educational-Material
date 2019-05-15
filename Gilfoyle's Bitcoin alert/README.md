@@ -1,4 +1,4 @@
-### This is a simple repository for running Gilfoyle's Bitcoin alert system in python.
+### This is a simple repository for making and running your own Gilfoyle's Bitcoin alert system (w/ Python).
 
 Original idea from the series Silicon Valley: https://www.youtube.com/watch?v=uS1KcjkWdoU&t
 
