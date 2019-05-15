@@ -5,6 +5,7 @@ Original idea from the series Silicon Valley: https://www.youtube.com/watch?v=uS
 Structure of the repository:
 > Gilfoyle's Bitcoin Warning Rig.ipynb - gives more details on some particular functions that are used in the creating of the alert.
 > BitCoin.py - the code to execute and allow fot the alert system to work.
+
 > Execute_BitCoin.bat - a .bat file that automatically starts the BitCoin.py file without the need to open the program through any text editor files.
 > Bitcoin_log.txt - log of all values that bitcoin takes when tracked with our program.
 > Log.png - Visual representation of the Bitcoin_log.txt data.
