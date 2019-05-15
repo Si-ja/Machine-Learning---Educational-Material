@@ -14,4 +14,4 @@ Structure of the repository:
 
 > SUFFER.wav - the audio file that plays as an allert.
 
-> Settings.txt - presets to run the BitCoin.py file. Their meaning: currency - in what currency we operate (can be USD, EUR, GBP); treshold - value below which if bitcoin drops the alert will play; track - for how many minutes we want our program to run (it updates every minute, so it also means, how many checks of bitcoin values will be done in total before the program closes).
+> Settings.txt - presets to run the BitCoin.py file. Their meaning: **currency** - in what currency we operate (can be USD, EUR, GBP); **treshold** - value below which if bitcoin drops the alert will play; **track** - for how many minutes we want our program to run (it updates every minute, so it also means, how many checks of bitcoin values will be done in total before the program closes).
